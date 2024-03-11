@@ -1,0 +1,15 @@
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\bin\Debug\net8.0\XuanLab.exe
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\bin\Debug\net8.0\XuanLab.deps.json
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\bin\Debug\net8.0\XuanLab.runtimeconfig.json
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\bin\Debug\net8.0\XuanLab.dll
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\bin\Debug\net8.0\XuanLab.pdb
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.AssemblyInfoInputs.cache
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.AssemblyInfo.cs
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.csproj.CoreCompileInputs.cache
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.sourcelink.json
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.dll
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\refint\XuanLab.dll
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.pdb
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\XuanLab.genruntimeconfig.cache
+C:\Users\Anngu\OneDrive\Máy tính\Source\XuanLab\XuanLab\obj\Debug\net8.0\ref\XuanLab.dll

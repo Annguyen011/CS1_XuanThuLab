@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XuanLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2588edc1669b238fd4dcc28f23314323fbb8b30a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c6c5c9c0378960f1dfd69cfeef190014825e435")]
 [assembly: System.Reflection.AssemblyProductAttribute("XuanLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XuanLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
