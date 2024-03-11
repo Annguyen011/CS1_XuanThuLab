@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace XuanLab
+namespace XuanLab.NewFolder
 {
     internal class Bai14
     {
         // Tinh ke thuc class B : A
-      public  class Animal
+        public class Animal
         {
             protected int legs;
             protected int weight;
@@ -20,11 +20,13 @@ namespace XuanLab
             }
         }
 
-      public  class Cat : Animal
+        // Niem phong sealed
+
+        sealed class Cat : Animal
         {
             private void Init(int leg, int weight)
             {
-                this.legs = leg;
+                legs = leg;
                 this.weight = weight;
             }
 
