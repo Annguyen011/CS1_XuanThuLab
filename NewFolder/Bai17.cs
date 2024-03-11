@@ -47,12 +47,12 @@ namespace XuanLab.NewFolder
                              select new
                              {
                                  Ten = sinhVien.hoTen,
-                                 NamSInh = sinhVien.namSinh
+                                 NamSinh = sinhVien.namSinh
                              };
 
                 foreach (var s in ketQua)
                 {
-                    Console.WriteLine(s.NamSInh);
+                    Console.WriteLine(s.NamSinh);
 
                 }
             }
